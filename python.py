@@ -1,0 +1,10 @@
+num1=eval(input("ENTER A NUMBER: "));
+num2=eval(input("ENTER A NUMBER: "));
+add=num1+num2;
+sub=abs(num1-num2);
+mul=num1*num2;
+div=num1/num2;
+print("Addition of ",num1,"and",num2,"is= ",add);
+print("Subraction of ",num1,"and",num2,"is= ",sub);
+print("Multiplication of ",num1,"and",num2,"is= ",mul);
+print("Division of ",num1,"and",num2,"is= ",div);
